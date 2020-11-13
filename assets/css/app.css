@@ -463,7 +463,7 @@ p {
 
 }
 
-.foot-item:nth-child(8) {
+.foot-item:hover {
     background: #1f3f684d;
 }
 
