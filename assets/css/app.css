@@ -469,10 +469,10 @@ p {
 
 .footer-foot {
     background: #316099;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     border-radius: 0px 200px 0px 0px;
     padding-top: 91px;
-    width: 1600px;
+    width: 95%;
 }
 
 .footer-foot .footer-bottom-head {
